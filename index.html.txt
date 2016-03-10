@@ -7,8 +7,12 @@
 	<body>
 
 	<h1>Voici une simple page web</h1>
+	
+	
 
 	<p>Cheval</p>
+	
+	<p>Citation favorite</p>
 
 	</body>
 </html>
